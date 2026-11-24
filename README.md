@@ -4,6 +4,9 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.8
+- Minas do Minador só explodem se você passar por cima, e ele planta bem menos.
+
 ## Novidades da 1.1.7
 - Reações de elemento: o tipo primário da nave (contorno amarelo) marca o inimigo e o secundário provoca a reação. São 14 para descobrir.
 - Sala de treino no hangar (tecla T), com boneco de dano e painel de dano por segundo.
