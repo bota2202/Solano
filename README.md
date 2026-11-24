@@ -4,6 +4,11 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.7
+- Reações de elemento: o tipo primário da nave (contorno amarelo) marca o inimigo e o secundário provoca a reação. São 14 para descobrir.
+- Sala de treino no hangar (tecla T), com boneco de dano e painel de dano por segundo.
+- Guia no menu principal, explicando as mecânicas.
+
 ## Novidades da 1.1.6
 - Itens exclusivos do modo difícil: cada chefe derrotado no difícil dá um acessório ou uma nave (VIGIA, FORJA e TROVOADA).
 - Dá para equipar 2 acessórios ao mesmo tempo, em qualquer nave, pela aba ACESSÓRIOS do hangar.
