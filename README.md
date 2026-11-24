@@ -4,6 +4,9 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.9
+- A lista de acessórios do hangar rola certinho com a rodinha do mouse.
+
 ## Novidades da 1.1.8
 - Minas do Minador só explodem se você passar por cima, e ele planta bem menos.
 
