@@ -4,6 +4,11 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.4
+
+- Modo difícil rende 40% a mais de dinheiro.
+- A aba GEMAS do hangar virou ACESSÓRIOS: armazém por categoria, com filtro e pesquisa (tecla F), mostrando onde cada item foi obtido.
+
 ## Novidades da 1.1.3
 
 - O tempo dos poderes fica parado entre as ondas (aparece "II" ao lado do nome).
