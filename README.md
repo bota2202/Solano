@@ -4,6 +4,12 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.2
+
+- Tipos dos inimigos por tema: cada planeta puxa para o seu tipo, mas só nos inimigos que combinam com ele; os inimigos comuns a todos os planetas têm o tipo de sempre. O mapa mostra os tipos que mais aparecem.
+- SAIR no menu do jogo volta para a tela de NOVO JOGO / CARREGAR JOGO.
+- No treino, cada instrução nova para o jogo e aparece no centro, com o botão PRÓXIMO.
+
 ## Novidades da 1.1.1
 
 - Cada jogo salvo pode ter um nome (ao criar, ou com R na tela de carregar).
