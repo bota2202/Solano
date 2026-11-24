@@ -4,6 +4,10 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.3
+
+- O tempo dos poderes fica parado entre as ondas (aparece "II" ao lado do nome).
+
 ## Novidades da 1.1.2
 
 - Tipos dos inimigos por tema: cada planeta puxa para o seu tipo, mas só nos inimigos que combinam com ele; os inimigos comuns a todos os planetas têm o tipo de sempre. O mapa mostra os tipos que mais aparecem.
