@@ -4,6 +4,11 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.1
+
+- Cada jogo salvo pode ter um nome (ao criar, ou com R na tela de carregar).
+- A tela de carregamento mostra quando está baixando e instalando uma atualização.
+
 ## Novidades da 1.1.0
 
 - Primeira versão com atualização automática.
