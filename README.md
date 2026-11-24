@@ -4,6 +4,11 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.6
+- Itens exclusivos do modo difícil: cada chefe derrotado no difícil dá um acessório ou uma nave (VIGIA, FORJA e TROVOADA).
+- Dá para equipar 2 acessórios ao mesmo tempo, em qualquer nave, pela aba ACESSÓRIOS do hangar.
+- Avatar rebalanceado: todo tiro é super efetivo, mas causa 30% menos dano.
+
 ## Novidades da 1.1.5
 
 - O Esquivo desvia bem menos: pulos curtos, com recarga, e às vezes não reage.
