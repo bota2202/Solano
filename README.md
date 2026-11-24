@@ -4,6 +4,10 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.1.5
+
+- O Esquivo desvia bem menos: pulos curtos, com recarga, e às vezes não reage.
+
 ## Novidades da 1.1.4
 
 - Modo difícil rende 40% a mais de dinheiro.
