@@ -4,6 +4,9 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.2.8
+- Núcleo Gravitacional mais fraco: área menor e menos poderes caindo.
+
 ## Novidades da 1.2.7
 - Agora são 6 jogos salvos.
 
