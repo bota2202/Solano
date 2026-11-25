@@ -4,6 +4,9 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.2.6
+- O Núcleo Gravitacional agora puxa os poderes também.
+
 ## Novidades da 1.2.5
 - Cada dificuldade do modo história tem o próprio progresso.
 
