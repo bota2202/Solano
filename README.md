@@ -4,6 +4,9 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.2.3
+- A aba de acessórios do hangar agora se chama EQUIPAMENTOS.
+
 ## Novidades da 1.2.2
 - Cada nave usa 1 acessório e 1 gema (a Pioneira continua com 2 gemas).
 - Rebalanceamento de vários acessórios e do Avatar.
