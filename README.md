@@ -4,6 +4,9 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.3.2
+- Avatar: a esquiva volta a ter a recarga normal.
+
 ## Novidades da 1.3.1
 - Avatar rebalanceado: continua consistente, mas não é mais o melhor em tudo.
 - Buffs viraram utilidade: bônus menores, sem dobrar o dano.
