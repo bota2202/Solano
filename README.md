@@ -4,9 +4,6 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
-## Novidades da 1.3.3
-- As teclas mostradas nas dicas das telas agora podem ser clicadas.
-
 ## Novidades da 1.3.2
 - Avatar: a esquiva volta a ter a recarga normal.
 
