@@ -4,6 +4,10 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.2.2
+- Cada nave usa 1 acessório e 1 gema (a Pioneira continua com 2 gemas).
+- Rebalanceamento de vários acessórios e do Avatar.
+
 ## Novidades da 1.2.1
 - Reações rebalanceadas: cada uma tem sua recarga (Magnetismo, por exemplo, a cada 5 s).
 - Os itens exclusivos do difícil aparecem num cartão bem visível.
