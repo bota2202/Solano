@@ -4,6 +4,10 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.2.1
+- Reações rebalanceadas: cada uma tem sua recarga (Magnetismo, por exemplo, a cada 5 s).
+- Os itens exclusivos do difícil aparecem num cartão bem visível.
+
 ## Novidades da 1.2.0
 - Mãe Esporo rebalanceada: menos vida (principalmente no difícil), menos esporos, ataques mais espaçados e poças de ácido menores.
 
