@@ -4,6 +4,9 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.2.4
+- A aba Equipamentos mostra a nave atual com a gema e o acessório equipados.
+
 ## Novidades da 1.2.3
 - A aba de acessórios do hangar agora se chama EQUIPAMENTOS.
 
