@@ -4,6 +4,9 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.2.0
+- Mãe Esporo rebalanceada: menos vida (principalmente no difícil), menos esporos, ataques mais espaçados e poças de ácido menores.
+
 ## Novidades da 1.1.9
 - A lista de acessórios do hangar rola certinho com a rodinha do mouse.
 
