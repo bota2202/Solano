@@ -4,6 +4,10 @@
 
 O jogo procura atualizações sozinho ao abrir: quando sai uma versão nova, ele baixa, troca o arquivo e reabre. O save fica guardado à parte e não se perde.
 
+## Novidades da 1.3.0
+- Modo Boss bem mais difícil: chefes com vida de fim de jogo.
+- A fase final do Nyxargoth ficou mais longa e com mais ataques.
+
 ## Novidades da 1.2.9
 - Poderes caem um pouco menos.
 
